@@ -1,0 +1,91 @@
+.main{
+    background-color: gray;
+
+}
+.border{
+    border: 5px solid green;
+}
+
+.box{
+    border:5px solid red;
+    border-radius: 20px;
+    box-shadow: 5px 5px 0px 0px purple;
+    width:300px;
+    height:120px;
+    text-align: center;
+    font-style: italic;
+    color: red;
+    background-color: white;
+    position:relative;
+    left:38%;
+    text-shadow: 1px 1px 2px black;
+    
+}
+.box1{
+    border:5px solid red;
+    border-radius: 20px;
+    width:180px;
+    height: 180px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 5px 5px 0px 0px purple;
+     text-shadow: 1px 1px 2px magenta;
+}
+.a{
+    position: relative;
+    left: 0%;
+}
+.b{
+    position: absolute;
+    right: 50px;
+    top: 161px;
+    background-image: url(./image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.c{
+    position:relative;
+    left: 0%;
+    top:50px ;
+}
+.d{
+    position: relative;
+    left: 1087px;
+    top:-140px;
+}
+
+.table{
+    border: 5px solid purple;
+    width: 600px;
+    height: 475px;
+    text-align: center;
+    background-color: green;
+    position: relative;
+    left:350px;
+    
+
+}
+.box2{
+    border: 1px solid purple;
+    width: 298px;
+    height: 200px;
+    float: left;
+    background-color: yellow;
+    font-style: italic;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.box3{
+    border: 5px solid green;
+    width: 102%;
+    height: 200px;
+    clear: both;
+    background-color: yellow;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
